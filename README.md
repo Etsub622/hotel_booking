@@ -1,1 +1,1 @@
-# hotel_booking
+This mobile app enables users to book and manage room reservations, utilizing Riverpod for state management and implementing Domain-Driven Design (DDD) for modular and scalable code. It features integrated authentication and CRUD operations with NestJS and MongoDB, ensuring high stability and performance. Key technologies include Flutter, Bloc, Riverpod, MongoDB, and NestJS.
